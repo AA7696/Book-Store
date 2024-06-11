@@ -30,13 +30,13 @@ const SingleBook = () => {
   return (
     <>
       <div className="single w-screen min-h-screen flex justify-center items-center p-6">
-        <div className="wraper w-[80%] h-[80%] flex">
+        <div className="wraper md:w-[80%] md:h-[80%] flex md:flex-row flex-col justify-center items-center gap-10">
           <div className="imgwrapper w-[50%] flex items-centre justify-center">
             <img width={400} src={data.imgUrl} alt="" />
           </div>
-          <div className="content-wrapper  w-[50%] flex justify-center  flex-col gap-10 text-black">
-            <h1>{data.name}</h1>
-            <h2 className=' text-2xl'>Author: {data.author}</h2>
+          <div className="content-wrapper  w-[90%] md:w-[60%] flex justify-center  flex-col gap-10 text-black">
+            <h1 className=' text-3xl'>{data.name}</h1>
+            <h2 className=' text-lg'>Author: {data.author}</h2>
             <p className=' text-xl text-gray-500'>{data.description}</p>
             <div className="badge badge-primary w-48 h-14 text-xl ">${data.price}</div>
 
