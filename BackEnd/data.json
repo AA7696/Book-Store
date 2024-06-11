@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Don't Belive Everything You Think",
+        "price": 177,
+        "availability": true,
+        "author": "Joseph Nguyen",
+        "imgUrl": "https://m.media-amazon.com/images/I/715qi-cIbML._AC_UF350,350_QL50_.jpg",
+        "description": "Discover how to conquer anxiety, self-doubt, and self-sabotage without depending on motivation or willpower. 'Don't Believe Everything You Think' uncovers the core of psychological suffering and offers insights to effortlessly shape the life you crave." 
+    },
+    {
+        "name": "The Alchemist",
+        "price": 239,
+        "availability": true,
+        "author": "Paulo Coelho",
+        "imgUrl": "https://m.media-amazon.com/images/I/61HAE8zahLL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself"
+    },
+    {
+        "name": "The 5 AM Club",
+        "price": 240,
+        "availability": false,
+        "author": "Robin Sharma",
+        "imgUrl": "https://m.media-amazon.com/images/I/618ZOX7UNNL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Part manifesto for mastery, part playbook for genius-grade productivity and part companion for a life lived beautifully, the 5 am club is a work that will transform your life. Forever.Legendary leadership and elite performance expert Robin Sharma introduced The 5 AM Club concept over twenty years ago, based on a revolutionary morning routine that has helped his clients maximize their productivity"
+    
+    },
+
+    {
+        "name": "Stop Overthinking",
+        "price": 160,
+        "availability": false,
+        "author": "Nick Trenton",
+        "imgUrl": "https://m.media-amazon.com/images/I/81TwewImvVL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Stop Overthinking is a book that understands the exhausting situation you've put yourself in, and how you lose your mind with anxiety and stress. It will walk you through detailed and proven techniques to help rewire your brain, control your thoughts, and change your mental habits."
+ 
+    },
+    {
+        "name": "Manifest",
+        "price": 311,
+        "availability": true,
+        "author": "Roxie Nafous",
+        "imgUrl": "https://m.media-amazon.com/images/I/715u7p+38+L._AC_UF1000,1000_QL80_.jpg",
+        "description": "MANIFEST is the essential guide for anyone and everyone wanting to feel more empowered in their lives. Self-development coach and 'Queen of Manifesting' Roxie Nafousi will show you how in just seven simple steps you can understand the true art of manifestation and learn how to create the life you have always dreamed of."
+    }
+]
