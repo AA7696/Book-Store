@@ -1,0 +1,32 @@
+/* .carousel-container {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+    border-color: #4b5563;
+    width: 100%;
+  }
+
+  .carousel-track {
+    display: flex;
+    position: absolute;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    gap: 16px;
+    width: 200%;
+    height: 100%;
+    animation: slide 20s linear infinite;
+    &:hover {
+        animation-play-state: paused;
+    }
+  }
+
+  @keyframes slide {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -100%;
+    }
+  } */
